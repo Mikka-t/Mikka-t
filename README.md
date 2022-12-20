@@ -11,10 +11,11 @@
 ## Language
 
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-black?logo=C)
 ![C++](https://img.shields.io/badge/-C++-black?logo=C%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-black?logo=Java)
+![Rust](https://img.shields.io/badge/-Rust-black?logo=Rust)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript)
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?logo=Vue.js)
 ![Flask](https://img.shields.io/badge/-Flask-000000.svg?logo=flask)
