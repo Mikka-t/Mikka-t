@@ -1,5 +1,6 @@
 ## Hi 👋, I'm Mikka
 
+- 🔭 I’m currently working on GNN
 - ⚡ I’m enjoying ML and CTF these days!
 
 [![](https://raw.githubusercontent.com/Mikka-t/my_profile/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -13,6 +14,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)
 ![C](https://img.shields.io/badge/-C-black?logo=C)
 ![C++](https://img.shields.io/badge/-C++-black?logo=C%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-black?logo=Csharp)
 ![Java](https://img.shields.io/badge/-Java-black?logo=Java)
 ![Rust](https://img.shields.io/badge/-Rust-black?logo=Rust)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript)
