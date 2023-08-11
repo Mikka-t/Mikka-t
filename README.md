@@ -3,9 +3,21 @@
 - 🔭 I’m currently working on GNN
 - ⚡ I’m enjoying ML and CTF these days!
 
+[About Me]
+- Interests: Security, Machine learning
+- Specialty: GNN (ML)
+- seccamp'23
+- CTF Player
+
 X (ex-Twitter): https://twitter.com/akatimi0801
 
-member: wani hackase, OUCC
+[organization]
+wani hackase
+OUCC
+
+[other interests]
+VRC: Mikka_
+3D modeling: [mikka3d.booth.pm](https://mikka3d.booth.pm/)
 
 [![](https://raw.githubusercontent.com/Mikka-t/my_profile/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Mikka-t/my_profile/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mikka-t/my_profile/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
