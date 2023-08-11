@@ -1,8 +1,5 @@
 ## Hi 👋, I'm Mikka
 
-- 🔭 I’m currently working on GNN
-- ⚡ I’m enjoying ML and CTF these days!
-
 [About Me]
 - Interests: Security, Machine learning
 - Specialty: GNN (ML)
