@@ -20,7 +20,7 @@ X (ex-Twitter): https://twitter.com/akatimi0801
 [![](https://raw.githubusercontent.com/Mikka-t/my_profile/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mikka-t/my_profile/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Mikka-t/my_profile/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mikka-t/my_profile/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<img src="https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=Mikka" width="500">
+<!--<img src="https://atcoder-stats-git-main-akmhmgc.vercel.app/api?username=Mikka" width="500">-->
 
 ## Language
 
@@ -39,6 +39,9 @@ X (ex-Twitter): https://twitter.com/akatimi0801
 
 ![Git](https://img.shields.io/badge/-Git-black?logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub)
+
+![Wazuh](https://img.shields.io/badge/wazuh-black)
+![Sysmon](https://img.shields.io/badge/sysmon-black)
 
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker)
 ![Amazon%20AWS](https://img.shields.io/badge/Amazon%20AWS-black?logo=Amazon%20AWS)
