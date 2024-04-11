@@ -6,8 +6,6 @@
 - seccamp'23
 - CTF Player
 
-X (ex-Twitter): https://twitter.com/akatimi0801
-
 [organization]
 - wani hackase
 - OUCC
