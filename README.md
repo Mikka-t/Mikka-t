@@ -1,17 +1,17 @@
 ## Hi 👋, I'm Mikka
 
 [About Me]
-- Interests: Security, Machine learning
+- Interests: Machine learning, Security
 - Specialty: GNN (ML)
 - seccamp'23
 - CTF Player
 
 [organization]
-- wani hackase
-- OUCC
+- wani hackase (Osaka University CTF Team)
+- OUCC (Osaka University Computer Club)
 
 [other interests]
-- VRC: Mikka_
+- VRChat: Mikka_
 - 3D modeling: [mikka3d.booth.pm](https://mikka3d.booth.pm/)
 
 [![](https://raw.githubusercontent.com/Mikka-t/my_profile/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
