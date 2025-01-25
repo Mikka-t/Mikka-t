@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Mikka
 
 [About Me]
-- Interests: Machine learning, Security
-- Specialty: GNN (ML)
+- Interests: Machine learning, Security, VR
+- Specialty: Data Science
 - seccamp'23
 - CTF Player
 
@@ -10,7 +10,7 @@
 - wani hackase (Osaka University CTF Team)
 - OUCC (Osaka University Computer Club)
 
-[other interests]
+[others]
 - VRChat: Mikka_
 - 3D modeling: [mikka3d.booth.pm](https://mikka3d.booth.pm/)
 
