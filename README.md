@@ -14,7 +14,7 @@
 [experiences, what I made]
 - [AI Vtuber](https://www.youtube.com/@%E5%A4%A7%E9%98%AA%E5%A4%A7%E5%AD%A6%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%82%AF%E3%83%A9%E3%83%96-c2b/streams) with Osaka University Computer Club
 - Selling [3D models](https://mikka3d.booth.pm/) I made
-- Reinforcement learning of video games (using OCR and LLM)
+- Reinforcement learning of video games (using OCR)
 - Machine Learning of Tabular Data in Internship
 - Had fun with genetic algorithms in Unity
 - [Translation clippings](https://www.nicovideo.jp/user/38989549/video) of English Vtubers
