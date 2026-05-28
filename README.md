@@ -1,14 +1,12 @@
 ## Hi 👋, I'm Mikka
 
 [About Me]
-- Interests: Machine learning, Security, VR
-- Specialty: Data Science (Master degree expected)
-- seccamp'23
-- CTF Player
+- Interests: Machine learning (main), VR, Security
+- Specialty: Data Science
 
 [organization]
-- wani hackase (Osaka University CTF Team)
-- OUCC (Osaka University Computer Club)
+- OB: wani hackase (Osaka University CTF Team)
+- OB: OUCC (Osaka University Computer Club)
 
 
 [experiences, what I made]
@@ -16,21 +14,22 @@
 - Selling [3D models](https://mikka3d.booth.pm/) I made
 - Reinforcement learning of video games (using OCR)
 - Wrote some [Qiita articles](https://qiita.com/mikka) and won a half-marathon prize
-- Machine Learning of Tabular Data in Internship
+- Machine Learning for Tabular Data in Internship
 - Had fun with genetic algorithms in Unity
-- [Translation clippings](https://www.nicovideo.jp/user/38989549/video) of English Vtubers
 - GNN (Graph Neural Network) in research activities
 - Clustering Algorithm in research activities
 
-[CTF]
+[CTF/security]
+- seccamp'23
 - 2nd place in solo at katagaitaiCTF 2025 (organized by NRI secure)
 - 1st place in group at TsukuCTF 2023
 - Created some challenges in WaniCTF 2024, WaniCTF 2023
 - [学校対抗CTF大会](https://west-sec.com/vs) 開催協力・作問
 - [サイバーセキュリティ・スクール](https://www.soumu.go.jp/soutsu/kinki/01sotsu07_01001963.html) 開催協力・作問
 
+
 [others]
-- VRChat: Mikka_
+- VRChat: Mikka_ (最近やってません)
 
 [![](https://raw.githubusercontent.com/Mikka-t/my_profile/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Mikka-t/my_profile/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mikka-t/my_profile/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
